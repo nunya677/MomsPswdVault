@@ -1,0 +1,6 @@
+{
+  "name": "GoldenKey",
+  "description": "A stress-free, secure password manager specially designed for seniors with biometric unlock, extra large readable text, one-tap copy, and clear guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
